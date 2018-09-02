@@ -158,6 +158,4 @@ source "drivers/barcode_emul/Kconfig"
 source "drivers/battery/Kconfig"
 source "drivers/motor/Kconfig"
 
-source "drivers/android/Kconfig"
-
 endmenu
